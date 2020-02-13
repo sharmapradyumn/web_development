@@ -1,4 +1,3 @@
-mejydfg f
- dfsliuk hfj
-  fdluifh
-   fdskjhgfsdjgfdskjghj
+a=input("Enter your name:-")
+print(a)
+
